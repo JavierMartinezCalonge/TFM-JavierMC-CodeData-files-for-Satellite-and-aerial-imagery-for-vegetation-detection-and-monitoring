@@ -2,4 +2,5 @@
 JavierMC Master Thesis in Industrial Engineering: Dataset and model codes repository
 
 
-In pogress... Stay tune for updates!
+Pending evaluation.
+Upload of files is in progress... Stay tune for updates!
