@@ -1,0 +1,24 @@
+{
+  "palette": [
+    "009150", 
+    "90EE90", 
+    "FFFF00", 
+    "666666",
+    "000000",
+    "0000FF",
+    "FF0033"  
+  ],
+  "values": [
+    0, 1, 2, 3, 4, 5, 6
+  ],
+  "label": [
+    "Arboles",
+    "Sotobosque",
+    "Tierra",
+    "Infraestructura",
+    "Sombra",
+    "Agua",
+    "No Clasificado"
+  ]
+}
+
