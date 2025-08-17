@@ -2,7 +2,3 @@
 JavierMC Master Thesis in Industrial Engineering: Dataset and model codes repository
 
 The full dataset and model outputs are avaiable via email to javiermartinezc@iqs.url.edu
-
-Pending evaluation.
-
-Upload of files is in progress... Stay tune for updates!
